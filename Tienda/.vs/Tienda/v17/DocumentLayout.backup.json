@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|c:\\users\\tich\\desktop\\pruebatecnica\\tienda\\tienda\\views\\articulos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|solutionrelative:tienda\\views\\articulos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|c:\\users\\tich\\desktop\\pruebatecnica\\tienda\\tienda\\views\\articulos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|solutionrelative:tienda\\views\\articulos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|c:\\users\\tich\\desktop\\pruebatecnica\\tienda\\tienda\\views\\articulos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|solutionrelative:tienda\\views\\articulos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|c:\\users\\tich\\desktop\\pruebatecnica\\tienda\\tienda\\views\\articulos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|solutionrelative:tienda\\views\\articulos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|c:\\users\\tich\\desktop\\pruebatecnica\\tienda\\tienda\\views\\articulos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|solutionrelative:tienda\\views\\articulos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|c:\\users\\tich\\desktop\\pruebatecnica\\tienda\\tienda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|solutionrelative:tienda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|c:\\users\\tich\\desktop\\pruebatecnica\\tienda\\tienda\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|solutionrelative:tienda\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|c:\\users\\tich\\desktop\\pruebatecnica\\tienda\\tienda\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|solutionrelative:tienda\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|c:\\users\\tich\\desktop\\pruebatecnica\\tienda\\tienda\\models\\context\\articulocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|solutionrelative:tienda\\models\\context\\articulocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|c:\\users\\tich\\desktop\\pruebatecnica\\tienda\\tienda\\tienda.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{262E27E2-02E7-4A1F-8888-66A1A9757468}|Tienda\\Tienda.csproj|solutionrelative:tienda\\tienda.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\Views\\Articulos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Tienda\\Views\\Articulos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\Views\\Articulos\\Edit.cshtml",
+              "RelativeToolTip": "Tienda\\Views\\Articulos\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T20:23:06.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\Views\\Articulos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Tienda\\Views\\Articulos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\Views\\Articulos\\Details.cshtml",
+              "RelativeToolTip": "Tienda\\Views\\Articulos\\Details.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T20:22:38.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\Views\\Articulos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Tienda\\Views\\Articulos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\Views\\Articulos\\Delete.cshtml",
+              "RelativeToolTip": "Tienda\\Views\\Articulos\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T20:22:00.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\Views\\Articulos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Tienda\\Views\\Articulos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\Views\\Articulos\\Create.cshtml",
+              "RelativeToolTip": "Tienda\\Views\\Articulos\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T20:21:13.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\Views\\Articulos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tienda\\Views\\Articulos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\Views\\Articulos\\Index.cshtml",
+              "RelativeToolTip": "Tienda\\Views\\Articulos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T20:20:11.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "Tienda\\Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "Tienda\\Controllers\\ArticulosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:52:06.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\Program.cs",
+              "RelativeDocumentMoniker": "Tienda\\Program.cs",
+              "ToolTip": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\Program.cs",
+              "RelativeToolTip": "Tienda\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:45:02.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\appsettings.json",
+              "RelativeDocumentMoniker": "Tienda\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\appsettings.json",
+              "RelativeToolTip": "Tienda\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T18:44:03.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArticuloContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\Models\\Context\\ArticuloContext.cs",
+              "RelativeDocumentMoniker": "Tienda\\Models\\Context\\ArticuloContext.cs",
+              "ToolTip": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\Models\\Context\\ArticuloContext.cs",
+              "RelativeToolTip": "Tienda\\Models\\Context\\ArticuloContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:42:59.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tienda.csproj",
+              "DocumentMoniker": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\Tienda.csproj",
+              "RelativeDocumentMoniker": "Tienda\\Tienda.csproj",
+              "ToolTip": "C:\\Users\\Tich\\Desktop\\PruebaTecnica\\Tienda\\Tienda\\Tienda.csproj",
+              "RelativeToolTip": "Tienda\\Tienda.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-27T18:32:49.503Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
